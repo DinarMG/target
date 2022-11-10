@@ -11,6 +11,7 @@
 Логотип:
 
 ![](https://github.com/netology-ds-team/git-homeworks/raw/main/1_self/logo.png)
+
 Мы на столько крутые, что уже успели поработать со следующими команиями:
 
 1. ООО «Рога и копыта»
