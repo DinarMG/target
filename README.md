@@ -10,4 +10,17 @@
 
 Логотип:
 
-![](https://github.com/netology-ds-team/git-homeworks/raw/main/1_self/logo.png) 
+![](https://github.com/netology-ds-team/git-homeworks/raw/main/1_self/logo.png)
+Мы на столько крутые, что уже успели поработать со следующими команиями:
+
+1. ООО «Рога и копыта»
+1. Издательство «Читый лист»
+1. Космопорт «Черезтерновый Кзвёздный»
+1. Дизайн-студия имени Слишком Известного Персонажа
+
+Ниже пример кода из нашего приложения:
+```css
+.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+} 
